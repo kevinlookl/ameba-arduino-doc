@@ -39,9 +39,11 @@ For inquiries, customization, or procurement, please contact:
 
   - `Taiyee <mailto:taiyee.sales@taiyee2000.com.tw>`__
 
+  - `CYCAM <mailto:tony.chen6636@gmail.com>`__
+
   - `ICshop online <https://www.icshop.com.tw/products/368030502361>`__
 
-- Other manufacturer
+- Other manufacturers
 
   - `Cbritech <https://cbritech.com/contact/>`__
 
