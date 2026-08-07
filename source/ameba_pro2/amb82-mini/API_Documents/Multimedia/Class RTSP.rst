@@ -38,7 +38,7 @@ A class used to send audio and video data streams over a network using the Real 
 +---------------------------+------------------------------------------+
 | RTSP::getPort             | Get RTSP port value.                     |
 +---------------------------+------------------------------------------+
-| RTSP:: printInfo          | Print out current configuration of RTSP. |
+| RTSP::printInfo           | Print out current configuration of RTSP. |
 +---------------------------+------------------------------------------+
 
 **RTSP::configVideo**
@@ -136,7 +136,7 @@ NA
 **Example Code**
 ~~~~~~~~~~~~~~~~
 
-Example: `StreamRTSP/VideoOnly <https://github.com/Ameba-AIoT/ameba-arduino-pro2/blob/dev/Arduino_package/hardware/libraries/Multimedia/examples/StreamRTSP/VideoOnly/VideoOnly.ino>`_
+Example: `StreamRTSP/VideoOnly <https://github.com/Ameba-AIoT/ameba-arduino-pro2/blob/dev/Arduino_package/hardware/libraries/Multimedia/examples/StreamRTSP/VideoOnly/VideoOnly.ino>`__
 
 .. note :: "RTSP.h" must be included to use the class function.
 
@@ -232,6 +232,6 @@ NA
 **Example Code**
 ~~~~~~~~~~~~~~~~
 
-Example: `StreamRTSP/VideoOnly <https://github.com/Ameba-AIoT/ameba-arduino-pro2/blob/dev/Arduino_package/hardware/libraries/Multimedia/examples/StreamRTSP/VideoOnly/VideoOnly.ino>`_
+Example: `StreamRTSP/VideoOnly <https://github.com/Ameba-AIoT/ameba-arduino-pro2/blob/dev/Arduino_package/hardware/libraries/Multimedia/examples/StreamRTSP/VideoOnly/VideoOnly.ino>`__
 
 .. note :: "RTSP.h" must be included to use the class function.
